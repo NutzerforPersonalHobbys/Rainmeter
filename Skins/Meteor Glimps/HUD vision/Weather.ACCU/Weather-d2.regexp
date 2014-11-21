@@ -1,0 +1,1 @@
+(?i)(http://.*accu.*weather\.com/.*)(#dest[\d]#)(.*$)|$1\#dest2\#$3
